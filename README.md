@@ -1,3 +1,8 @@
+### Preface
+
+My solution differs from one proposed on the lecture but it seems to
+me that it solves the problem in a more elegant fashion.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
